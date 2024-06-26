@@ -1,0 +1,1 @@
+PubViewer.Document.Renditions.Mobile = {"formats":[{"id":1,"label":"842 x 596","screenHeight":596,"screenWidth":842}],"localizations":[{"default":true,"id":1,"label":"English","languageCode":"en"}],"orientations":[{"id":1,"label":"Portrait","orientation":"portrait"}]};

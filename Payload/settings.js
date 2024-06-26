@@ -1,0 +1,1 @@
+PubViewer.Document.Settings = {"appIdentifier":"1C7010EC9C544744A89D761F62CCC5E2","appName":"English P4","backgroundColor":"#EFEEE8","facingPagesInLandscape":false,"lockOrientation":false,"restoreLatestPage":true};
